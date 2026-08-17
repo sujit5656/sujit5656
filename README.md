@@ -34,7 +34,7 @@ const sujit = {
 
 **Core Skills**
 
-![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws) ![Bash](https://skillicons.dev/icons?i=bash)
+![Linux](https://skillicons.dev/icons?i=linux) ![AWS]([https://skillicons.dev/icons?i=aws](https://aws.amazon.com/premiumsupport/?nc2=h_uts_ps&trk=78c55dff-53b9-4938-8ed3-d071891360dd&sc_channel=ps)) ![Bash](https://skillicons.dev/icons?i=bash)
 
 **Also working with:** Cloud • AI Tools • DevOps
 
