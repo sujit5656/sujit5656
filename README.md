@@ -91,15 +91,6 @@ A **PHP and MySQL-based web application** for managing event bookings, customer 
 ---
 
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujit5656&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Sujit Suryawanshi's GitHub Activity Graph" width="95%"/>
-
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
