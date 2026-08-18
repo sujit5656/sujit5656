@@ -100,19 +100,54 @@ A **PHP and MySQL-based web application** for managing event bookings, customer 
 
 <br/>
 
+----
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sujitsuryawanshi0021" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<a href="https://www.linkedin.com/in/sujitsuryawanshi0021">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://github.com/sujit5656">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</td>
+
+<td align="center" width="180">
+
 <a href="mailto:sujitsuryawanshi21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<b>Open to opportunities in Linux, AWS, Cloud Infrastructure & DevOps.</b>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+
+<b>Thanks for visiting my GitHub profile! 🚀</b>
+
+</div>
