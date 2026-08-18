@@ -1,19 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sujit%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Linux%20System%20Administrator%20%7C%20AWS%20Cloud%20%7C%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Linux+System+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;Automating+Infrastructure+with+Terraform+%26+Ansible;Building+with+Docker+%26+Kubernetes" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sujit5656&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/sujit5656?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="./profile-banner.png" alt="Sujit Suryawanshi - Linux System Administrator | AWS Cloud | DevOps Engineer" width="100%">
+</p>
 
 ## 🧑‍💻 Who I Am
 
