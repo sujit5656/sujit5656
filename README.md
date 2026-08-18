@@ -2,31 +2,29 @@
   <img src="./profile-banner.png" alt="Sujit Suryawanshi - Linux System Administrator | AWS Cloud | DevOps Engineer" width="100%">
 </p>
 
-## 🧑‍💻 Who I Am
+## 👋 About Me
 
-```typescript
-const sujit = {
-  title: "Linux System Administrator | AWS Cloud | DevOps Engineer",
-  stack: [
-    "Linux",
-    "AWS",
-    "Cloud",
-    "Ansible",
-    "Terraform",
-    "Docker",
-    "GitHub",
-    "Kubernetes",
-    "MySQL",
-    "MongoDB",
-    "CI/CD"
-  ],
-  launchedProjects: ["Event-Management-System-Sujit"],
-  status: "Building and automating cloud infrastructure",
-  openTo: "Collaborations & opportunities in Cloud/DevOps"
-};
-```
+I’m **Sujit Suryawanshi**, a **RHCSA Certified Linux System Administrator and AWS Cloud / DevOps Engineer** focused on building, managing, and troubleshooting reliable IT infrastructure.
 
-<br/>
+My core interests include **Linux administration, AWS cloud infrastructure, server management, networking, automation, monitoring, and DevOps practices**. I enjoy turning repetitive infrastructure tasks into efficient and reliable automated workflows.
+
+📍 **Location:** Pune, Maharashtra, India  
+🎓 **Certification:** Red Hat Certified System Administrator (RHCSA)
+
+### ☁️ Core Focus
+
+- 🐧 **Linux & System Administration** — server management, troubleshooting, configuration, and maintenance
+- ☁️ **AWS & Cloud Infrastructure** — cloud services, compute, networking, storage, and infrastructure management
+- ⚙️ **Automation & DevOps** — scripting, Infrastructure as Code, CI/CD, containers, and deployment automation
+- 📊 **Monitoring & Reliability** — system health, performance monitoring, troubleshooting, and operational improvements
+
+### 🚀 Currently Focused On
+
+Building hands-on expertise in **AWS, Linux, Infrastructure as Code, DevOps automation, containerization, monitoring, and cloud infrastructure management**.
+
+### 🤝 Open To
+
+Opportunities and collaborations related to **Linux Administration, Cloud Infrastructure, System Engineering, AWS, and DevOps**.
 
 ## 🚀 Featured Projects
 
