@@ -95,18 +95,18 @@ A **PHP and MySQL-based web application** for managing event bookings, customer 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujit5656&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit5656&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujit5656&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&rank_icon=github" alt="Sujit Suryawanshi's GitHub Stats" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=sujit5656&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit5656&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sujit5656&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Contribution Streak"/>
 
 </div>
 
-## 🏆 Trophies
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujit5656&no-frame=true&no-bg=true&theme=nord" alt="Trophies"/>
-</div>
 
 ## 📈 Contribution Graph
 
