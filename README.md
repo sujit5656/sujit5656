@@ -30,7 +30,7 @@ Opportunities and collaborations related to **Linux Administration, Cloud Infras
 
 ## 🚀 Featured Projects
 
-### 🐧 Linux & AWS Infrastructure Automation Lab
+### 🐧 PROJECT 1 : Linux & AWS Infrastructure Automation Lab
 
 A hands-on infrastructure project focused on **Linux system administration, AWS infrastructure, automation, monitoring, and troubleshooting**.
 
@@ -49,9 +49,9 @@ A hands-on infrastructure project focused on **Linux system administration, AWS 
 
 🔗 **[View Project →](YOUR-PROJECT-1-GITHUB-LINK)**
 
---
+##
 
-### 🎫 Event Management System
+### PROJECT 2 : Event Management System
 
 A **PHP and MySQL-based web application** for managing event bookings, customer interactions, payments, feedback, and administrative operations.
 
