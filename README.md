@@ -26,7 +26,7 @@ Building hands-on expertise in **AWS, Linux, Infrastructure as Code, DevOps auto
 
 Opportunities and collaborations related to **Linux Administration, Cloud Infrastructure, System Engineering, AWS, and DevOps**.
 
-
+---
 
 ## 🚀 Featured Projects
 
@@ -49,7 +49,7 @@ A hands-on infrastructure project focused on **Linux system administration, AWS 
 
 🔗 **[View Project →](YOUR-PROJECT-1-GITHUB-LINK)**
 
----
+--
 
 ### 🎫 Event Management System
 
