@@ -74,17 +74,65 @@ A **PHP and MySQL-based web application** for managing event bookings, customer 
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infra**
+### 🐧 Linux & System Administration
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,centos" />
 
-**Databases**
+**RHEL** · **Ubuntu** · **CentOS** · **SSH** · **LVM** · **ACL** · **NFS** · **Permissions** · **System Administration**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+---
 
-**Dev Tools**
+### ☁️ AWS Cloud
 
-<img src="https://skillicons.dev/icons?i=github,git" />
+<img src="https://skillicons.dev/icons?i=aws" />
+
+**EC2** · **EBS** · **VPC** · **Subnets** · **Security Groups** · **IAM** · **ELB** · **CloudWatch**
+
+---
+
+### ⚙️ Automation & Scripting
+
+<img src="https://skillicons.dev/icons?i=ansible,bash" />
+
+**Ansible Playbooks** · **Shell Scripting** · **Bash Automation** · **Operational Automation**
+
+---
+
+### 🐳 Containers
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+**Docker** · **Containerized Environments** · **Application Support**
+
+---
+
+### 📊 Monitoring & Reliability
+
+**☁️ Amazon CloudWatch** · **📈 Site24x7**
+
+**System Monitoring** · **Performance Monitoring** · **Troubleshooting** · **RCA** · **SLA-focused Operations**
+
+---
+
+### 🌐 Networking
+
+**TCP/IP** · **DNS** · **DHCP** · **Network Troubleshooting**
+
+---
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**MySQL** · **Database Integration**
+
+---
+
+### 🔧 Version Control & Dev Tools
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+**Git** · **GitHub** · **Version Control**
 
 <br/>
 
