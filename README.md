@@ -18,13 +18,15 @@ My core interests include **Linux administration, AWS cloud infrastructure, serv
 - ⚙️ **Automation & DevOps** — scripting, Infrastructure as Code, CI/CD, containers, and deployment automation
 - 📊 **Monitoring & Reliability** — system health, performance monitoring, troubleshooting, and operational improvements
 
-### 🚀 Currently Focused On
+### Currently Focused On
 
 Building hands-on expertise in **AWS, Linux, Infrastructure as Code, DevOps automation, containerization, monitoring, and cloud infrastructure management**.
 
-### 🤝 Open To
+### Open To
 
 Opportunities and collaborations related to **Linux Administration, Cloud Infrastructure, System Engineering, AWS, and DevOps**.
+
+
 
 ## 🚀 Featured Projects
 
