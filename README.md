@@ -28,25 +28,47 @@ Opportunities and collaborations related to **Linux Administration, Cloud Infras
 
 ## 🚀 Featured Projects
 
-### Event Management System
+### 🐧 Linux & AWS Infrastructure Automation Lab
 
-<div align="left">
-  <a href="https://github.com/sujit5656/Event-Management-System-Sujit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujit5656&repo=Event-Management-System-Sujit&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Event-Management-System-Sujit"/>
-  </a>
-</div>
+A hands-on infrastructure project focused on **Linux system administration, AWS infrastructure, automation, monitoring, and troubleshooting**.
 
-A system for managing and organizing events end-to-end.
+**Tech Stack:**  
+`Linux` · `AWS EC2` · `VPC` · `Ansible` · `Bash` · `Docker` · `CloudWatch`
 
-| Layer     | Technology |
-|-----------|------------|
-| Backend   | MySQL / MongoDB |
-| Hosting   | AWS |
-| Workflow  | CI/CD |
+**Key Highlights:**
 
-🔗 **Code:** [github.com/sujit5656/Event-Management-System-Sujit](https://github.com/sujit5656/Event-Management-System-Sujit)
+- 🐧 Linux user, permission, service, process, and package management
+- ☁️ AWS EC2 infrastructure with networking and security configuration
+- ⚙️ Ansible playbooks for configuration and operational automation
+- 📜 Bash scripts for repetitive system administration tasks
+- 🐳 Docker-based application environment
+- 📊 CloudWatch-based monitoring and system health tracking
+- 🔧 Linux and network troubleshooting
 
-<br/>
+🔗 **[View Project →](YOUR-PROJECT-1-GITHUB-LINK)**
+
+---
+
+### 🎫 Event Management System
+
+A **PHP and MySQL-based web application** for managing event bookings, customer interactions, payments, feedback, and administrative operations.
+
+**Tech Stack:**  
+`PHP` · `MySQL` · `Bootstrap` · `JavaScript` · `HTML/CSS` · `XAMPP`
+
+**Key Highlights:**
+
+- 🔐 User registration and authentication
+- 📅 Event booking and booking management
+- 👤 Customer dashboard and booking history
+- 🛠️ Admin dashboard and event management
+- 💳 Payment workflow and payment slip
+- 💬 Feedback management
+- 🗄️ MySQL database integration
+
+🔗 **[View Project →](https://github.com/sujit5656/Event-Management-System-Sujit)**
+
+---
 
 ## 🛠️ Tech Stack
 
