@@ -74,39 +74,22 @@ A **PHP and MySQL-based web application** for managing event bookings, customer 
 
 ## 🛠️ Tech Stack
 
-**🐧 Linux & System Administration**
+**Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,centos" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
 
-**☁️ AWS & Cloud**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-**⚙️ Automation & Scripting**
+**Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=ansible,bash" />
-
-**🐳 Containers**
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-**📊 Monitoring**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-
-**🌐 Networking**
-
-<img src="https://skillicons.dev/icons?i=nginx" />
-
-**🗄️ Database**
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-**🔧 Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=github,git" />
 
 <br/>
+
+---
+
 
 ## 📊 GitHub Stats
 
